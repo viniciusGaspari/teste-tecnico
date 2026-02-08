@@ -1,11 +1,12 @@
 ## 🚀 Como rodar o app
+
 1. Clone este repositórios
 ```bash
-cd login-basico-com-angular
+git clone https://github.com/viniciusGaspari/teste-tecnico.git
 ```
 2.  Entre na pasta
 ```bash
-cd login-basico-com-angular
+cd teste-tecnico-app
 ```
 3. Instale as dependências
 ```bash
